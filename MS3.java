@@ -1,5 +1,3 @@
-package mindtree.seleniumTesting1;
-
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
